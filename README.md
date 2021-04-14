@@ -1,4 +1,4 @@
-### Hi there 👋
+# NO, I DO NOT CODE ANYMORE :(
 
 <!--
 **pannxe/pannxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
