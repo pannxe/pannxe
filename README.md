@@ -2,7 +2,7 @@
 
 **21, study medicine at kku**
 
-I actually like to code, med school just does not allow me to 😝 
+I actually like to code, med school just doesn't allow me to 😝 
 
 
 <!--
