@@ -1,4 +1,9 @@
-# NO, I DO NOT CODE ANYMORE :(
+# pannxe | kombutofu 
+
+**21, study medicine at kku**
+
+I actually like to code, med school just does not allow me to 😝 
+
 
 <!--
 **pannxe/pannxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ah, actually I am :P
+
