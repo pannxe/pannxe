@@ -1,6 +1,6 @@
 # pannxe | kombutofu 
 
-**22, study medicine at kku**
+**24, study medicine at kku**
 
 I actually like to code, med school just doesn't allow me to 😝 
 
